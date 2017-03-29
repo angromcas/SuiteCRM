@@ -197,19 +197,19 @@
   }
 
   #tab-actions > .dropdown-menu .button:hover {
-    background-color: $action-tab-bg;
+    background-color: $action-tab-bg-hover;
   }
 
   #tab-actions > .dropdown-menu .button:focus {
-    background-color: $action-tab-bg;
+    background-color: $action-tab-bg-hover;
   }
 
   #tab-actions > .dropdown-menu .button:active {
-    background-color: $action-tab-bg;
+    background-color: $action-tab-bg-hover;
   }
 
   #tab-actions > .dropdown-menu .open > .dropdown-toggle.btn-primary {
-    background-color: $action-tab-bg;
+    background-color: $action-tab-bg-hover;
   }
 
   #tab-actions > .dropdown-menu li:last-of-type a {
